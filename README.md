@@ -1,4 +1,5 @@
 Detailed Report on Tableau and MySQL Workbench Analysis
+
 Abstract
 This report delves into global life expectancy trends using advanced data analysis and visualization techniques in SQL and Tableau. It explores influential factors such as health issues and economic indicators from 2000 to 2015, providing insights into global health outcomes and trends.
 
